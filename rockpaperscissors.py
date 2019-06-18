@@ -1,8 +1,6 @@
 from random import randint
 
 
-
-
 def user_choice(computerscore, userscore, drawscore):
     """
     Takes the user input and returns it.
